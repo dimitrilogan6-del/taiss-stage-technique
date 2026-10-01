@@ -22,7 +22,7 @@ python -m spacy download fr_core_news_sm
 ```
 ### Exécution du Pipeline
 ```bash
-python pipeline.py
+python pipeline_nlp.ipynb.py
 ```
 ### Lancement de l'Interface Graphique (Bonus )
 ```bash
